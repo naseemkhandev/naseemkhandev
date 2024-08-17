@@ -15,23 +15,13 @@
 
 <img  alt="Nextjs"  src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 
+<img  alt="Tailwind"  src="https://img.shields.io/badge/tailwindcss-253d66?&logo=tailwindcss" />
+
 <img  alt="Docker"  src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 
 <img  alt="TypeScript"  src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 
 <img  alt="redux"  src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-
-<img  alt="GraphQL"  src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-
-<img  alt="Apollo"  src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
-
-<img  alt="Tailwind"  src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss" />
-
-<img  alt="Sass"  src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-
-<img  alt="Styled Components"  src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-
-<img  alt="Webpack"  src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
 
 <img  alt="git"  src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 
@@ -47,11 +37,17 @@
 
 <img  alt="Expressjs"  src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=flat" />
 
-<img  alt="Mongodb"  src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img  alt="GraphQL"  src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+
+<img  alt="Apollo"  src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
+
+<img  alt="Redis"  src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+
+<img  alt="Mongodb"  src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF" />
 
 <img  alt="Postgres"  src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" />
 
-<img  alt="Postman"  src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+<img  alt="Postman"  src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
 </p>
 
 <br/>

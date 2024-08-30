@@ -3,10 +3,10 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naseemkhan005&label=Profile%20views&color=0e75b6&style=flat" alt="naseemkhan005" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=naseemkhandev&label=Profile%20views&color=0e75b6&style=flat" alt="naseemkhandev" /> </p>
 
 <h3 align="left">Connect with me:</h3>
-<p><a  href="https://github.com/NaseemKhan005"  target="_blank"><img  alt="Github"  src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>  <a  href="https://www.linkedin.com/in/naseemkhann"  target="_blank"><img  alt="LinkedIn"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<p><a  href="https://github.com/naseemkhandev"  target="_blank"><img  alt="Github"  src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>  <a  href="https://www.linkedin.com/in/naseemkhann"  target="_blank"><img  alt="LinkedIn"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
 
 <h3 align="left">Things I code with:</h3>
@@ -51,4 +51,4 @@
 </p>
 
 <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naseemkhan005&show_icons=true&locale=en&layout=compact" alt="naseemkhan005" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naseemkhandev&show_icons=true&locale=en&layout=compact" alt="naseemkhandev" /></p>

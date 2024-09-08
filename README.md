@@ -1,15 +1,29 @@
 <h1>Hi 👋, I'm Naseem Khan</h1>
-<p>As an experienced <b>Full-Stack Web Developer</b>, I have an in-depth understanding of popular technologies including <b>React.js, Next.js, Shadcn UI</b>, and <b>Tailwind CSS</b>. I translate user vision into tangible applications, bridging the gap between <b>Front-end</b> aesthetics and <b>Back-end</b> functionality.</p>
+
+**Full Stack Web Developer**
+
+---
+
+### 👋 About Me
+
+Hello! I'm Abdul Wahab, a passionate Full Stack Web Developer with extensive experience in building and scaling web applications. My expertise spans across front-end and back-end technologies, cloud services, and DevOps practices.
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=naseemkhandev)
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naseemkhandev&label=Profile%20views&color=0e75b6&style=flat" alt="naseemkhandev" /> </p>
 
+
+
+---
 <h3 align="left">Connect with me:</h3>
 <p><a  href="https://github.com/naseemkhandev"  target="_blank"><img  alt="Github"  src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>  <a  href="https://www.linkedin.com/in/naseemkhann"  target="_blank"><img  alt="LinkedIn"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="https://wa.me/923444170400" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="mailto:naseemkhandev@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<h3 align="left">Things I code with:</h3>
+<h3 align="left">### :hammer_and_wrench: Things I code with:</h3>
 <p align="left"> 
 <img  alt="React"  src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 

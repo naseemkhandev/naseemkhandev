@@ -76,7 +76,7 @@
 
 - 💬 Ask me about **React.js, Next.js, Typescript, Framer Motion, Node.js**
 
-- 📫 How to reach me **<devnaseemkhan@gmail.com>**
+- 📫 How to reach me **<hello@naseemkhan.dev>**
 
 <br/>
 

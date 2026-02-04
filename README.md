@@ -2,7 +2,7 @@
 
 <!-- <h1 align="center"><a href="https://naseemkhan.software/?ref=github/" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=30&duration=4000&pause=5000&color=1e90ff&center=true&vCenter=true&repeat=true&random=false&width=600&lines=Hello+%3Ccoders!%2F%3E%2C+I'm+Naseem+Khan" alt="Hey there 🙋‍♂️, I'm Naseem Khan" /></a></h1> -->
 
-  <a href="https://naseemkhan.software/?ref=github/" target="_blank">
+  <a href="https://naseemkhan.dev" target="_blank">
     <img
       alt="Naseem Khan"
       src="./assets/banner.png"

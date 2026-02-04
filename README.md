@@ -1,6 +1,6 @@
  <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> -->
 
-<!-- <h1 align="center"><a href="https://naseemkhan.software/?ref=github/" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=30&duration=4000&pause=5000&color=1e90ff&center=true&vCenter=true&repeat=true&random=false&width=600&lines=Hello+%3Ccoders!%2F%3E%2C+I'm+Naseem+Khan" alt="Hey there 🙋‍♂️, I'm Naseem Khan" /></a></h1> -->
+<!-- <h1 align="center"><a href="https://naseemkhan.dev" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=30&duration=4000&pause=5000&color=1e90ff&center=true&vCenter=true&repeat=true&random=false&width=600&lines=Hello+%3Ccoders!%2F%3E%2C+I'm+Naseem+Khan" alt="Hey there 🙋‍♂️, I'm Naseem Khan" /></a></h1> -->
 
   <a href="https://naseemkhan.dev" target="_blank">
     <img
@@ -16,7 +16,7 @@
   </span>
   <span style="display: inline-block; vertical-align: middle;">
     <img
-      src="https://naseemkhan.software/?ref=github/2.jpg"
+      src="https://naseemkhan.dev2.jpg"
       alt="Naseem Khan"
       width="80"
       style="border-radius: 24px; cursor: pointer; margin: 0 15px;"
@@ -49,7 +49,7 @@
 
 <!-- [![wakatime](https://wakatime.com/badge/user/8821fc28-7662-4c43-9766-efd845f8957f.svg?style=for-the-badge)](https://wakatime.com/@naseemkhandev) -->
 
-<!-- [![wakatime](https://wakatime.com/badge/user/8821fc28-7662-4c43-9766-efd845f8957f.svg?style=for-the-badge)](https://naseemkhan.software/?ref=github) -->
+<!-- [![wakatime](https://wakatime.com/badge/user/8821fc28-7662-4c43-9766-efd845f8957f.svg?style=for-the-badge)](https://naseemkhan.dev) -->
 
 <!-- &#8287;&#8287; -->
 
@@ -57,20 +57,20 @@
 <a href="https://x.com/naseemkhandev" target="_blank"><img alt="X/Twitter" align="right" width="40" src="./assets/twitter.svg" /></a>
 <a href="https://github.com/naseemkhandev" target="_blank"><img alt="Github" align="right" width="40" src="./assets/github.svg" /></a> -->
 
-[![Visits Badge](https://komarev.com/ghpvc/?username=naseemkhandev&label=Profile%20views&color=red&style=for-the-badge)](https://naseemkhan.software/?ref=github)
+[![Visits Badge](https://komarev.com/ghpvc/?username=naseemkhandev&label=Profile%20views&color=red&style=for-the-badge)](https://naseemkhan.dev)
 <a href="https://x.com/naseemkhandev" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" alt="Naseem Khan | Twitter" ></img></a>
 <a href="https://www.linkedin.com/in/naseemkhann" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="Naseem Khan | Linkedin" /></a>
 <a href="https://github.com/naseemkhandev" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="Naseem Khan | GitHub" /></a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<a href="https://naseemkhan.software/?ref=github/" target="_blank"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'></a>
+<a href="https://naseemkhan.dev" target="_blank"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'></a>
 
 <h3>A Full Stack Engineer</h3>
 
-- 🔭 I'm currently working on [naseemkhan.software/?ref=github](https://naseemkhan.software/?ref=github)
+- 🔭 I'm currently working on [naseemkhan.dev](https://naseemkhan.dev)
 
 - 🌱 I'm currently learning **AI/ML**
 
-- 👨‍💻 All of my projects are available at [https://naseemkhan.software/?ref=github/projects](https://naseemkhan.software/?ref=github/projects)
+- 👨‍💻 All of my projects are available at [https://naseemkhan.devprojects](https://naseemkhan.devprojects)
 
 - 🛠️ I enjoy building side projects and experimenting with new technologies.
 
@@ -86,7 +86,7 @@
 <p align="left">
 <!-- <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,tailwind,figma,notion,npm,git,github,nodejs,express,prisma,postgres,supabase,mongodb,postman,vscode,webstorm,vercel,vite,powershell,bash,linux,mysql,md,firebase,cloudflare,java,c,py"/> -->
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,tailwind,figma,notion,npm,pnpm,git,github,nodejs,express,prisma,postgres,supabase,mongodb,mysql,redis,postman,vscode,webstorm,vercel,vite,py,docker)](https://naseemkhan.software/?ref=github)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,tailwind,figma,notion,npm,pnpm,git,github,nodejs,express,prisma,postgres,supabase,mongodb,mysql,redis,postman,vscode,webstorm,vercel,vite,py,docker)](https://naseemkhan.dev)
 
   <!-- jest -->
 </p>
@@ -232,10 +232,10 @@ CSS          21 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align=center>
-  <span><a href="https://naseemkhan.software/?ref=github"><img width=330 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=naseemkhandev&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true" alt="top langs" /></a></span>
-  <!-- <span><a href="https://naseemkhan.software/?ref=github"><img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=naseemkhandev&layout=compact&langs_count=6&theme=dark&border_radius=10&hide_border=true" /></a></span> -->
-  <span><a href="https://naseemkhan.software/?ref=github"><img width=410  src="https://github-readme-stats-salesp07.vercel.app/api?username=naseemkhandev&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" alt="readme stats" /></a></span>
-  <span><a href="https://naseemkhan.software/?ref=github"><img width=430 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=naseemkhandev&count_private=true&theme=dark&hide_border=true&border_radius=10&card_width=495" alt="streak stats"/></a></span>
+  <span><a href="https://naseemkhan.dev"><img width=330 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=naseemkhandev&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true" alt="top langs" /></a></span>
+  <!-- <span><a href="https://naseemkhan.dev"><img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=naseemkhandev&layout=compact&langs_count=6&theme=dark&border_radius=10&hide_border=true" /></a></span> -->
+  <span><a href="https://naseemkhan.dev"><img width=410  src="https://github-readme-stats-salesp07.vercel.app/api?username=naseemkhandev&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" alt="readme stats" /></a></span>
+  <span><a href="https://naseemkhan.dev"><img width=430 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=naseemkhandev&count_private=true&theme=dark&hide_border=true&border_radius=10&card_width=495" alt="streak stats"/></a></span>
 </div>
 
 <!-- <div align=center>

@@ -70,7 +70,7 @@
 
 - 🌱 I'm currently learning **AI/ML**
 
-- 👨‍💻 All of my projects are available at [https://naseemkhan.devprojects](https://naseemkhan.devprojects)
+- 👨‍💻 All of my projects are available at [https://naseemkhan.dev/projects](https://naseemkhan.dev/projects)
 
 - 🛠️ I enjoy building side projects and experimenting with new technologies.
 

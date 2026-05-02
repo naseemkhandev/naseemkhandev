@@ -5,7 +5,7 @@
   <a href="https://naseemkhan.dev" target="_blank">
     <img
       alt="Naseem Khan"
-      src="./assets/banner.png"
+      src="./assets/naseemkhan-banner.png"
       width="100%"
     />
   </a>

@@ -2,6 +2,12 @@
 
 <!-- <h1 align="center"><a href="https://naseemkhan.dev" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=30&duration=4000&pause=5000&color=1e90ff&center=true&vCenter=true&repeat=true&random=false&width=600&lines=Hello+%3Ccoders!%2F%3E%2C+I'm+Naseem+Khan" alt="Hey there 🙋‍♂️, I'm Naseem Khan" /></a></h1> -->
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/light_mode.svg" />
+  <img alt="naseemkhandev's GitHub profile" src="./assets/dark_mode.svg" />
+</picture>
+
   <a href="https://naseemkhan.dev" target="_blank">
     <img
       alt="Naseem Khan"
